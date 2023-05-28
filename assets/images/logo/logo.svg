@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="43" viewBox="0 0 170 43">
+  <text id="Message AI" transform="translate(0 32)" fill="#2500f9" font-size="30" font-family="Poppins-Bold, Poppins"
+        font-weight="700">
+    <tspan x="0" y="0">Message</tspan>
+    <tspan y="0" fill="#242f51">AI</tspan>
+  </text>
+</svg>
